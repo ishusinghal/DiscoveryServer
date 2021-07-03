@@ -1,0 +1,2 @@
+# DiscoveryServer
+DiscoveryServer for CQRS
